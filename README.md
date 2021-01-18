@@ -22,4 +22,4 @@ The included APKs are:
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
  * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
    * OpenWeatherMapWeatherProvider: "Open Weather Map" weather provider for the LineageOS' weather service
-
+ * Aurora Services from [here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)
